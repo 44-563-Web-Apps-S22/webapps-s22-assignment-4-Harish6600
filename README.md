@@ -8,5 +8,5 @@ A practice assignment for HTML with CSS
     </head>
     <body>
     <h1>Produced by Harish Chowdary Bala</h1>
-        <h3>The programmer</h3>
+    <h3>The programmer</h3>
         
