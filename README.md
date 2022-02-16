@@ -1,5 +1,5 @@
 # WebApps-S22-Assignment-4
 A practice assignment for HTML with CSS
-Hosted at https://github.com/44-563-Web-Apps-S22/webapps-s22-assignment-4-Harish6600.git/
-[play html](https://github.com/44-563-Web-Apps-S22/webapps-s22-assignment-4-Harish6600.git/play.html)
+Hosted at https://44-563-web-apps-s22.github.io/webapps-s22-assignment-4-Harish6600/
+[play html](https://44-563-web-apps-s22.github.io/webapps-s22-assignment-4-Harish6600/play.html)
         
