@@ -34,25 +34,32 @@
     font-style: italic ;
     color: greenyellow ;
 }
-<table>
-  <tr>
-      <th>Character</th>
-      <th>Actor</th>
-      <th>Offer</th>
-  </tr>
-  <tr>
-      <td>OCT</td>
-      <td>Mahesh</td>
-      <td>$150 million</td>
-  </tr>
-  <tr>
-      <td>LEA</td>
-      <td>PRABHAS</td>
-      <td>$100 million</td>
-    </tr>
-    <tr>
-        <td>LEA</td>
-        <td>Tom Cruise</td>
-        <td>$200 million</td>
-      </tr>
-    </table>
+table { 
+    border: dashed 3px;
+    overflow: auto;
+    font-size: large;
+    text-align: center;
+    border-collapse: separate;
+}
+table.collapsing { 
+    border: solid 3px;
+    border-collapse: collapse;
+    outline: solid 2px rgb(54, 13, 13);
+}
+td, th {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: medium;
+    border: solid 1px;
+    text-align: center;
+    color: indigo;
+}
+tr {
+    background-color:rgb(137, 211, 134) ;
+}
+tr:nth-child(even) {
+    background-color: #c4b1b1;
+}
